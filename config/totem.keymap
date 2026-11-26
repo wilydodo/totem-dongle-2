@@ -93,7 +93,7 @@
 
             bindings = <
        &kp Q        &kp W           &kp E           &kp R        &kp T          &kp Y        &kp U        &kp I                  &kp O            &kp P
-       &Hm LCTRL A  &Hm LEFT_GUI S  &Hm LEFT_ALT D  &Hm LSHFT F  &kp G          &kp H        &Hm RSHFT J  &Hm (RIGHT_ALT) LC(K)  &Hm RIGHT_GUI L  &Hm LCTRL SEMICOLON
+       &Hm LCTRL A  &Hm LEFT_ALT S  &Hm LEFT_GUI D  &Hm LSHFT F  &kp G          &kp H        &Hm RSHFT J  &Hm RIGHT_GUI K  &Hm (RIGHT_ALT) LC(L)  &Hm LCTRL SEMICOLON
 &kp Q  &kp Z        &kp X           &kp C           &kp V        &kp B          &kp N        &kp M        &kp COMMA              &kp DOT          &kp FSLH             &kp BSLH
                                     &kp DEL         &kp SPACE    &lt 1 SPACE    &lt 2 SPACE  &kp ENTER    &kp BSPC
             >;
